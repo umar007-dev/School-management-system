@@ -1,0 +1,3 @@
+# SchoolManagmentSystem
+Daffidil university project
+
